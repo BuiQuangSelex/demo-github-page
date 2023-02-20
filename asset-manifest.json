@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.e8d68178.js",
-    "static/js/787.60339fd4.chunk.js": "/static/js/787.60339fd4.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.e8d68178.js.map": "/static/js/main.e8d68178.js.map",
-    "787.60339fd4.chunk.js.map": "/static/js/787.60339fd4.chunk.js.map"
+    "main.css": "/BuiQuangSelex/demo-github-page/static/css/main.073c9b0a.css",
+    "main.js": "/BuiQuangSelex/demo-github-page/static/js/main.52092626.js",
+    "static/js/787.60339fd4.chunk.js": "/BuiQuangSelex/demo-github-page/static/js/787.60339fd4.chunk.js",
+    "static/media/logo.svg": "/BuiQuangSelex/demo-github-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BuiQuangSelex/demo-github-page/index.html",
+    "main.073c9b0a.css.map": "/BuiQuangSelex/demo-github-page/static/css/main.073c9b0a.css.map",
+    "main.52092626.js.map": "/BuiQuangSelex/demo-github-page/static/js/main.52092626.js.map",
+    "787.60339fd4.chunk.js.map": "/BuiQuangSelex/demo-github-page/static/js/787.60339fd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e8d68178.js"
+    "static/js/main.52092626.js"
   ]
 }
